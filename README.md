@@ -1,3 +1,3 @@
 
-this is a spider use python programed
-get all jokes from a website
+this are some spiders use python programed
+ from some websites
